@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle special-paste",
+        "command": "special-paste:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "special-paste",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "special-paste:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
