@@ -6,9 +6,9 @@
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "special-paste:toggle"
+    "atom-workspace": "special-paste:paste"
   },
-  "repository": "https://github.com/atom/special-paste",
+  "repository": "https://github.com/RaphaelRGusmao/special-paste",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
